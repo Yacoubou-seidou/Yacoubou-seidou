@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yacoubou-seidou also know as Yacos
 - 👀 I’m interested in web development
-- 🌱 I am a full stack developer
+- 🌱 I am a full stack web developer
 - 💞️ I’m looking to collaborate on your projects
 - 📫 How to reach me yacoseidou@gmail.com , fb https://www.facebook.com/Blackyacos.chaibou and in https://www.linkedin.com/in/yacos-chaibou-961518251/
 <!---
