@@ -5,9 +5,7 @@
 - 📫 How to reach me yacoseidou@gmail.com , fb https://www.facebook.com/Blackyacos.chaibou and on www.linkedin.com/in/yacoubou-seidou-chaibou
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Yacoubou-seidou&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Yacoubou-seidou&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yacoubou-seidou&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![GitHub Profile Stats](https://kgnio-profile-card.vercel.app/api/card?user=Yacoubou-seidou&theme=midnight)
 ---
 [![Committers.top badge](https://user-badge.committers.top/niger_private/Yacoubou-seidou.svg)](https://user-badge.committers.top/niger_private/Yacoubou-seidou)
 ## 💰 You can help me by Donating
