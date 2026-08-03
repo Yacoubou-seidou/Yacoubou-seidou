@@ -4,9 +4,7 @@
 - 💞️ I’m looking to collaborate on your projects
 - 📫 How to reach me yacoseidou@gmail.com , fb https://www.facebook.com/Blackyacos.chaibou and on www.linkedin.com/in/yacoubou-seidou-chaibou
 
-# 📊 GitHub Stats:
-![GitHub Profile Stats](https://kgnio-profile-card.vercel.app/api/card?user=Yacoubou-seidou&theme=midnight)
----
+
 [![Committers.top badge](https://user-badge.committers.top/niger_private/Yacoubou-seidou.svg)](https://user-badge.committers.top/niger_private/Yacoubou-seidou)
 ## 💰 You can help me by Donating
 
